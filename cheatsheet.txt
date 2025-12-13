@@ -1,0 +1,16 @@
+# Basic Git Commands
+
+1. Setup & Clone:
+   `git clone [URL]`
+
+2. Branching:
+   `git checkout -b [branch-name]`
+
+3. Staging Changes:
+   `git add .`
+
+4. Committing:
+   `git commit -m "brief message"`
+
+5. Pushing:
+   `git push origin [branch-name]`
